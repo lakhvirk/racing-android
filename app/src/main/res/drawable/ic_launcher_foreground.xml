@@ -1,0 +1,9 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Checkered flag on a pole -->
+    <path android:fillColor="#FFFFFF" android:pathData="M34,30h4v50h-4z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M38,30h36v24h-36z" />
+    <path android:fillColor="#101114" android:pathData="M38,30h9v6h-9zM56,30h9v6h-9zM47,36h9v6h-9zM65,36h9v6h-9zM38,42h9v6h-9zM56,42h9v6h-9zM47,48h9v6h-9zM65,48h9v6h-9z" />
+    <path android:fillColor="#FF3D00" android:pathData="M30,80h48v4h-48z" />
+</vector>
